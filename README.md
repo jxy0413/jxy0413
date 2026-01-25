@@ -125,48 +125,53 @@ const aboutMe = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=jxy0413&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/jxy0413)
-
-</div>
-
----
-
-## 🎯 Research Interests
+## 📚 Publications
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     🔬 RESEARCH AREAS                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│   🤖 Large Language Models (LLM)                               │
-│      └── 大模型训练、微调与应用                                   │
-│                                                                 │
-│   🛰️ Remote Sensing Change Detection                           │
-│      └── 基于深度学习的遥感图像变化检测                            │
-│                                                                 │
-│   📊 Big Data Analytics                                        │
-│      └── 分布式计算与大规模数据处理                               │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+### 学术论文 | Academic Papers
 
 </div>
 
----
+<table>
+<tr>
+<td width="80" align="center">
+<img src="https://img.shields.io/badge/EI-Indexed-blue?style=flat-square" />
+<br/>
+<sub><b>2021</b></sub>
+</td>
+<td>
 
-## 💭 Random Dev Quote
+**森林生态站大数据快速存储与索引方法**
 
-<div align="center">
+Fast Storage and Indexing Method of Big Data in Forest Ecological Station
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<sub>
+📖 农业机械学报 (Transactions of the Chinese Society for Agricultural Machinery), 2021, 52(8): 195-204
+<br/>
+👥 王新阳, <b>贾相宇</b>, 陈志治, 崔晓晖, 许福
+<br/>
+🏛️ 北京林业大学信息学院 | 国家林业和草原局林业智能信息处理工程技术研究中心
+<br/>
+🔗 DOI: <a href="https://doi.org/10.6041/j.issn.1000-1298.2021.08.019">10.6041/j.issn.1000-1298.2021.08.019</a>
+</sub>
 
-</div>
+<details>
+<summary>📝 摘要 | Abstract</summary>
+<br/>
+针对森林生态站中大量图像、视频、GIS数据等非结构化数据以及生态指标等结构化数据存储效率低、检索性能差的问题，提出了基于Hadoop和HBase的森林生态站大数据存储框架。设计预分区算法保证数据在集群中均匀分布，科学设计RowKey实现生态数据的快速检索，基于ElasticSearch的二级非主键索引技术优化多条件检索。实验结果表明，系统检索速度提升3.99倍，每秒查询数提升1.88倍，系统响应时间降低69.5%。
+</details>
+
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![HBase](https://img.shields.io/badge/HBase-E25A1C?style=flat-square&logo=apache&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-FF6B6B?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<!-- 如果有更多论文，可以继续添加更多 <tr>...</tr> -->
 
 ---
 
