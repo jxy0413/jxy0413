@@ -17,32 +17,6 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const aboutMe = {
-    name: "JIA XIANGYU (贾相宇)",
-    location: "Beijing, China 🇨🇳",
-    
-    education: {
-        university: "Beijing Forestry University 🌲",
-        bachelor: "2015 - 2019",
-        master: "2019 - 2022", 
-        PhD: "2025 - 2029 (Current)"
-    },
-    
-    career: [
-        { company: "Meituan 美团", period: "2022 - 2024" },
-        { company: "Ant Group 蚂蚁集团", period: "2024 - 2025" },
-        { company: "Meituan 美团", period: "2025 - Present" }
-    ],
-    
-    currentFocus: ["Large Language Models (LLM) 🤖", 
-                   "Remote Sensing Change Detection 🛰️", 
-                   "Big Data Analytics 📊"],
-    
-    askMeAbout: ["LLM", "遥感", "大数据", "机器学习"]
-};
-```
-
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🎓 Education
@@ -59,6 +33,48 @@ const aboutMe = {
 - 🤖 **Large Language Models (LLM)** - 大模型研究与应用
 - 🛰️ **Remote Sensing Change Detection** - 遥感变化检测
 - 📊 **Big Data Analytics** - 大数据分析与处理
+
+---
+
+## 📚 Publications
+
+<table>
+<tr>
+<td width="80" align="center">
+<img src="https://img.shields.io/badge/EI-Indexed-blue?style=flat-square" />
+<br/>
+<sub><b>2021</b></sub>
+</td>
+<td>
+
+**森林生态站大数据快速存储与索引方法**
+
+Fast Storage and Indexing Method of Big Data in Forest Ecological Station
+
+<sub>
+📖 农业机械学报 (Transactions of the Chinese Society for Agricultural Machinery), 2021, 52(8): 195-204
+<br/>
+👥 王新阳, <b>贾相宇</b>, 陈志治, 崔晓晖, 许福
+<br/>
+🏛️ 北京林业大学信息学院 | 国家林业和草原局林业智能信息处理工程技术研究中心
+<br/>
+🔗 DOI: <a href="https://doi.org/10.6041/j.issn.1000-1298.2021.08.019">10.6041/j.issn.1000-1298.2021.08.019</a>
+</sub>
+
+<details>
+<summary>📝 摘要 | Abstract</summary>
+<br/>
+针对森林生态站中大量图像、视频、GIS数据等非结构化数据以及生态指标等结构化数据存储效率低、检索性能差的问题，提出了基于Hadoop和HBase的森林生态站大数据存储框架。设计预分区算法保证数据在集群中均匀分布，科学设计RowKey实现生态数据的快速检索，基于ElasticSearch的二级非主键索引技术优化多条件检索。实验结果表明，系统检索速度提升3.99倍，每秒查询数提升1.88倍，系统响应时间降低69.5%。
+</details>
+
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![HBase](https://img.shields.io/badge/HBase-E25A1C?style=flat-square&logo=apache&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-FF6B6B?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -117,60 +133,9 @@ const aboutMe = {
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxy0413&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&text_color=ffffff&langs_count=8" />
 
-<!-- GitHub Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jxy0413&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=6C63FF&line=6C63FF&point=FF6B6B)](https://github.com/jxy0413)
 
 </div>
-
----
-
-## 📚 Publications
-
-<div align="center">
-
-### 学术论文 | Academic Papers
-
-</div>
-
-<table>
-<tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/EI-Indexed-blue?style=flat-square" />
-<br/>
-<sub><b>2021</b></sub>
-</td>
-<td>
-
-**森林生态站大数据快速存储与索引方法**
-
-Fast Storage and Indexing Method of Big Data in Forest Ecological Station
-
-<sub>
-📖 农业机械学报 (Transactions of the Chinese Society for Agricultural Machinery), 2021, 52(8): 195-204
-<br/>
-👥 王新阳, <b>贾相宇</b>, 陈志治, 崔晓晖, 许福
-<br/>
-🏛️ 北京林业大学信息学院 | 国家林业和草原局林业智能信息处理工程技术研究中心
-<br/>
-🔗 DOI: <a href="https://doi.org/10.6041/j.issn.1000-1298.2021.08.019">10.6041/j.issn.1000-1298.2021.08.019</a>
-</sub>
-
-<details>
-<summary>📝 摘要 | Abstract</summary>
-<br/>
-针对森林生态站中大量图像、视频、GIS数据等非结构化数据以及生态指标等结构化数据存储效率低、检索性能差的问题，提出了基于Hadoop和HBase的森林生态站大数据存储框架。设计预分区算法保证数据在集群中均匀分布，科学设计RowKey实现生态数据的快速检索，基于ElasticSearch的二级非主键索引技术优化多条件检索。实验结果表明，系统检索速度提升3.99倍，每秒查询数提升1.88倍，系统响应时间降低69.5%。
-</details>
-
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![HBase](https://img.shields.io/badge/HBase-E25A1C?style=flat-square&logo=apache&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big_Data-FF6B6B?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<!-- 如果有更多论文，可以继续添加更多 <tr>...</tr> -->
 
 ---
 
@@ -195,4 +160,3 @@ Fast Storage and Indexing Method of Big Data in Forest Ecological Station
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
