@@ -39,8 +39,7 @@ const aboutMe = {
                    "Remote Sensing Change Detection 🛰️", 
                    "Big Data Analytics 📊"],
     
-    askMeAbout: ["LLM", "遥感", "大数据", "机器学习"],
-    funFact: "从工业界回归学术界，继续追求技术梦想 🚀"
+    askMeAbout: ["LLM", "遥感", "大数据", "机器学习"]
 };
 ```
 
