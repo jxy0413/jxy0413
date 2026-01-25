@@ -3,9 +3,6 @@
 <!-- 动态打字效果 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+JIA+XIANGYU;PhD+Student+%40+Beijing+Forestry+University;LLM+%7C+Remote+Sensing+%7C+Big+Data;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-<!-- 个人头像/Logo 区域 -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
 <!-- 社交媒体徽章 -->
 [![GitHub followers](https://img.shields.io/github/followers/jxy0413?style=for-the-badge&logo=github&labelColor=1a1a2e&color=6C63FF)](https://github.com/jxy0413)
 [![Meituan Email](https://img.shields.io/badge/Meituan-jiaxiangyu@meituan.com-FF6103?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=1a1a2e)](mailto:jiaxiangyu@meituan.com)
@@ -22,7 +19,7 @@
 
 ```javascript
 const aboutMe = {
-    name: "JIA XIANGYU (贾翔宇)",
+    name: "JIA XIANGYU (贾相宇)",
     location: "Beijing, China 🇨🇳",
     
     education: {
@@ -138,16 +135,6 @@ const aboutMe = {
 
 ---
 
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jxy0413/jxy0413/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jxy0413/jxy0413/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jxy0413/jxy0413/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ## 🎯 Research Interests
 
 <div align="center">
@@ -205,8 +192,3 @@ const aboutMe = {
 
 </div>
 
-<!-- 
-🐍 如果想要贪吃蛇动画，需要在你的仓库中设置 GitHub Actions:
-   - 创建 .github/workflows/snake.yml
-   - 参考: https://github.com/Platane/snk
--->
