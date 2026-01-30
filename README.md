@@ -41,6 +41,39 @@
 <table>
 <tr>
 <td width="80" align="center">
+<img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" />
+<br/>
+<sub><b>2025</b></sub>
+</td>
+<td>
+
+**CSGANet: Lightweight Channel-Split Group Attention for High-Resolution Remote Sensing Change Detection**
+
+<sub>
+📖 IEEE Journal (Open Access)
+<br/>
+👥 <b>Xiangyu Jia (贾相宇)</b>, Zhibo Chen, Shengyi Zhang
+<br/>
+🏛️ Beijing Forestry University
+<br/>
+💻 Code: <a href="https://github.com/jxy0413/csganet">github.com/jxy0413/csganet</a>
+</sub>
+
+<details>
+<summary>📝 摘要 | Abstract</summary>
+<br/>
+Change detection (CD) in remote sensing imagery is a fundamental tool for Earth monitoring. We propose CSGANet, a lightweight Siamese framework featuring two key innovations: a channel-split group attention module (CSGA) to selectively integrate complementary local, directional, and global contexts, and an Adaptive PathMixing Module (AdmPM) for globally guided, boundary-preserving downsampling. Extensive experiments on LEVIR, SYSU, and S2Looking benchmarks demonstrate that CSGANet achieves competitive accuracy with a compact footprint, reaching F1 scores of <b>91.82%</b>, <b>84.26%</b>, and <b>66.11%</b>, respectively, with only <b>4.15M</b> parameters and <b>16.39 GFLOPs</b>.
+</details>
+
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-228B22?style=flat-square)
+![Change Detection](https://img.shields.io/badge/Change_Detection-FF6B6B?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-6C63FF?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
 <img src="https://img.shields.io/badge/EI-Indexed-blue?style=flat-square" />
 <br/>
 <sub><b>2021</b></sub>
