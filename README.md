@@ -43,7 +43,7 @@
 <td width="80" align="center">
 <img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/SCI-Q1-red?style=flat-square" />
+<img src="https://img.shields.io/badge/SCI-Q2-orange?style=flat-square" />
 <br/>
 <sub><b>2026</b></sub>
 </td>
