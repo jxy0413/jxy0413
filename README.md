@@ -43,20 +43,24 @@
 <td width="80" align="center">
 <img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" />
 <br/>
-<sub><b>2025</b></sub>
+<img src="https://img.shields.io/badge/SCI-Q1-red?style=flat-square" />
+<br/>
+<sub><b>2026</b></sub>
 </td>
 <td>
 
 **CSGANet: Lightweight Channel-Split Group Attention for High-Resolution Remote Sensing Change Detection**
 
 <sub>
-📖 IEEE Journal (Open Access)
+📖 <b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</b>, 2026, pp. 1-15
 <br/>
 👥 <b>Xiangyu Jia (贾相宇)</b>, Zhibo Chen, Shengyi Zhang
 <br/>
 🏛️ Beijing Forestry University
 <br/>
-💻 Code: <a href="https://github.com/jxy0413/csganet">github.com/jxy0413/csganet</a>
+🔗 DOI: <a href="https://doi.org/10.1109/JSTARS.2026.3659056">10.1109/JSTARS.2026.3659056</a> | 
+📄 <a href="https://ieeexplore.ieee.org/document/11367786">IEEE Xplore</a> | 
+💻 <a href="https://github.com/jxy0413/csganet">Code</a>
 </sub>
 
 <details>
@@ -67,8 +71,8 @@ Change detection (CD) in remote sensing imagery is a fundamental tool for Earth 
 
 ![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-228B22?style=flat-square)
 ![Change Detection](https://img.shields.io/badge/Change_Detection-FF6B6B?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-6C63FF?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Lightweight Networks](https://img.shields.io/badge/Lightweight_Networks-6C63FF?style=flat-square)
+![Group Attention](https://img.shields.io/badge/Group_Attention-FF6103?style=flat-square)
 
 </td>
 </tr>
