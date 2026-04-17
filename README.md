@@ -51,6 +51,10 @@
 
 **Change-LISA: Language-Guided Reasoning for Remote Sensing Change Detection**
 
+<p align="center">
+  <img src="image/change_lisa.png" width="100%" />
+</p>
+
 <sub>
 📖 <b>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</b>, 2026, Early Access
 <br/>
@@ -87,6 +91,10 @@ Remote sensing change detection (RSCD) is widely used for monitoring land-surfac
 <td>
 
 **CSGANet: Lightweight Channel-Split Group Attention for High-Resolution Remote Sensing Change Detection**
+
+<p align="center">
+  <img src="image/csganet.png" width="100%" />
+</p>
 
 <sub>
 📖 <b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</b>, 2026, pp. 1-15
