@@ -43,6 +43,43 @@
 <td width="80" align="center">
 <img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" />
 <br/>
+<img src="https://img.shields.io/badge/SCI-Q1-red?style=flat-square" />
+<br/>
+<sub><b>2026</b></sub>
+</td>
+<td>
+
+**Change-LISA: Language-Guided Reasoning for Remote Sensing Change Detection**
+
+<sub>
+📖 <b>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</b>, 2026, Early Access
+<br/>
+👥 <b>Xiangyu Jia (贾相宇)</b>, Zhibo Chen, Shengyi Zhang, Xiaojing Xue
+<br/>
+🏛️ Beijing Forestry University
+<br/>
+🔗 DOI: <a href="https://doi.org/10.1109/TGRS.2026.3684817">10.1109/TGRS.2026.3684817</a> | 
+📄 <a href="https://ieeexplore.ieee.org/document/11482624">IEEE Xplore</a> | 
+💻 <a href="https://github.com/jxy0413/changeLisa">Code</a>
+</sub>
+
+<details>
+<summary>📝 摘要 | Abstract</summary>
+<br/>
+Remote sensing change detection (RSCD) is widely used for monitoring land-surface dynamics. Most models, however, output an unconditional "all-changes" map and do not account for user intents expressed in natural language. This can lead to spurious masks under counterfactual (i.e., negative/mismatched) queries. This paper studies language-guided reasoning change detection. Given a bitemporal image pair and a text instruction, the model outputs an instruction-conditioned change mask; the correct output can be an empty mask when the queried change is absent. To support this setting, ReasonRS-110K is built as a benchmark of <b>112,317</b> image–instruction–mask triplets. Instructions are organized into hierarchical reasoning levels (L1–L3) together with L0 negative queries for compliance evaluation. Change-LISA is proposed as a parameter-efficient framework that combines a frozen Siamese SAM encoder and an explicit difference/fusion module with a multimodal LLM (LLaVA). The LLM emits a token whose embedding prompts a lightweight mask decoder. Only LoRA adapters and the decoder are optimized. On ReasonRS-110K, Change-LISA reaches <b>63.1 IoU</b> and <b>77.3 F1</b> on positive-query levels (L1–L3) and <b>95.4 NCA</b> with <b>0.12 FPA</b> on L0 negative queries, outperforming representative CD-only, RIS, and MLLM baselines.
+</details>
+
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-228B22?style=flat-square)
+![Change Detection](https://img.shields.io/badge/Change_Detection-FF6B6B?style=flat-square)
+![Language-Guided](https://img.shields.io/badge/Language--Guided-6C63FF?style=flat-square)
+![Multimodal LLM](https://img.shields.io/badge/Multimodal_LLM-FF6103?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+<img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/SCI-Q2-orange?style=flat-square" />
 <br/>
 <sub><b>2026</b></sub>
