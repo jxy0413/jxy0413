@@ -133,6 +133,10 @@ Change detection (CD) in remote sensing imagery is a fundamental tool for Earth 
 
 Fast Storage and Indexing Method of Big Data in Forest Ecological Station
 
+<p align="center">
+  <img src="image/dashuju.png" width="100%" />
+</p>
+
 <sub>
 📖 农业机械学报 (Transactions of the Chinese Society for Agricultural Machinery), 2021, 52(8): 195-204
 <br/>
