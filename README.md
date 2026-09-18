@@ -47,6 +47,19 @@ My background combines academic research with industry experience at Meituan and
 
 ## Selected Publications
 
+### HazeGroupNet: Dual-Cue Residual Calibration for Native Receptive-Field Groups in Remote Sensing Image Dehazing
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jxy0413/HazeGroupNet/master/assets/hazegroupnet_architecture.png" width="90%" alt="HazeGroupNet architecture and DGRC module"/>
+</p>
+
+**Xiangyu Jia**, Zhibo Chen, Liping Mu, Yongjun Zhao, Xinpeng Zhang, Shaoxiang Ji, Shengyi Zhang.<br/>
+*Expert Systems with Applications*, Article 134438, available online 17 September 2026.<br/>
+[DOI: 10.1016/j.eswa.2026.134438](https://doi.org/10.1016/j.eswa.2026.134438) · [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0957417426033427) · [Code](https://github.com/jxy0413/HazeGroupNet)
+
+This work presents HazeGroupNet, a compact encoder--decoder for remote-sensing image dehazing. Its Tri-Receptive Block preserves local, medium-range, and contextual responses as native groups, while Dual-Cue Group Residual Calibration uses haze cues and decoder-conditioned group discrepancies to produce a prior-centered residual correction. The released Tiny, Small, and Large variants provide an accuracy--efficiency trade-off for remote-sensing image restoration.
+
+
 ### Change-LISA: Language-Guided Reasoning for Remote Sensing Change Detection
 
 <p align="center">
