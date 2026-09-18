@@ -9,6 +9,7 @@ Remote Sensing Change Detection · Multimodal Large Language Models · Geospatia
   <a href="https://github.com/jxy0413"><img src="https://img.shields.io/badge/GitHub-jxy0413-181717?style=flat-square&logo=github" alt="GitHub"/></a>
   <a href="mailto:jia_xiangyu@bjfu.edu.cn"><img src="https://img.shields.io/badge/BJFU-jia__xiangyu@bjfu.edu.cn-228B22?style=flat-square&logo=gmail&logoColor=white" alt="BJFU Email"/></a>
   <a href="mailto:jiaxiangyu@meituan.com"><img src="https://img.shields.io/badge/Meituan-jiaxiangyu@meituan.com-FF6103?style=flat-square&logo=gmail&logoColor=white" alt="Meituan Email"/></a>
+  <a href="https://jxy0413.github.io"><img src="https://img.shields.io/badge/Academic_Homepage-jxy0413.github.io-0c6b55?style=flat-square&logo=githubpages&logoColor=white" alt="Academic Homepage"/></a>
 </p>
 
 ---
